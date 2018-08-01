@@ -23,5 +23,6 @@ void main()
             pick(n,picked,topick-1);
             picked.pop_back();
         }
+        printf("끼요오오옷");
     }
 }
